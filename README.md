@@ -1,6 +1,7 @@
 <H3>Name : ARUN KUMAR SUKDEV CHAVAN</H3>
 <H3>Register no. 212222230013</H3>
 <H3>Date : 12.09.2024</H3>
+
 # EX-02 Implementation of Perceptron for Binary Classification
 
 ### Aim:
